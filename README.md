@@ -27,23 +27,24 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<a href="https://imgur.com/BXhwYIT"><img src="https://i.imgur.com/BXhwYIT.png" title="source: imgur.com"Disk Sanitization Steps"/>
+<a href="https://imgur.com/9COo6h2"><img src="https://i.imgur.com/9COo6h2.png" title="source: imgur.com" /></a>
 <p>
-After setting up your Virtual Machines, we will install IIs in windows going in to enable CGI and Common HTTP. For IIS management console we will enable IIS management console from the WEb Management tool under the Internet Information folder from IIS Managment Console. 
+After setting up your Virtual Machine, we will install IIs in windows going in to enable CGI and Common HTTP. For IIS management console we will enable IIS management console from the Web Management tool under the Internet Information folder from IIS Managment Console. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgur.com/t6z80fr"><img src="https://i.imgur.com/t6z80fr.png" title="source: imgur.com" /></a>
 </p>
 <p>
 Next we will install PHP Manager for IIS and the Rewrite Modele for OsTicekt, creating a directory C:\PHP. Installing PHP and unzipping said file into the C:\PHP 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgur.com/UEVYC4s"><img src="https://i.imgur.com/UEVYC4s.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/R3L9rsT"><img src="https://i.imgur.com/R3L9rsT.png" title="source: imgur.com" /></a>
+ <a href="https://imgur.com/C2UiN2v"><img src="https://i.imgur.com/C2UiN2v.png" title="source: imgur.com" /></a> 
 </p>
 <p>
 Finally we are gonna install VC_redist.x86.exe. along with MySQL. OPneing IIs as and admin and register PHP within IIS installing osTicket. We will then reload IIS enabling some extensions, assign some permissons and continue setting up osTicekting in browser. Lastly we install HeidiSQL and setting up osticket in browser assigning a username and password then install. Congrants you have osticekt install. 
