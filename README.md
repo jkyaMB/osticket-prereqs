@@ -40,10 +40,9 @@ Next, we will install PHP Manager for IIS and the Rewrite Modele for OsTicekt, c
 <br />
 </p>
 <p>
-Finally, we are gonna install VC_redist.x86.exe. along with MySQL. OPneing IIs as an admin and registering PHP within IIS installing osTicket. We will then reload IIS enable some extensions, assign some permissions and continue setting up osTicekting in the browser. Lastly, we install HeidiSQL and set up osticket in the browser assigning a username and password then install. Congrats you have Osticket installed. 
+Finally, we are gonna install VC_redist.x86.exe. along with MySQL. OPneing IIs as an admin and registering PHP within IIS installing osTicket. We will then reload IIS enable some extensions, assign permissions, and continue setting up osTicekting in the browser. Lastly, we install HeidiSQL and set up osticket in the browser giving a username and password then install. Congrats you have Osticket installed. 
 </p>
 <p align="center">
-<a href="https://imgur.com/R3L9rsT"><img src="https://i.imgur.com/R3L9rsT.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/UEVYC4s"><img src="https://i.imgur.com/UEVYC4s.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/C2UiN2v"><img src="https://i.imgur.com/C2UiN2v.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/9qH0aXA"><img src="https://i.imgur.com/9qH0aXA.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/bJ8DbrK"><img src="https://i.imgur.com/bJ8DbrK.png" title="source: imgur.com" /></a>
 <br />
