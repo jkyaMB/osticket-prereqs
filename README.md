@@ -30,7 +30,6 @@ After setting up your virtual machine, we will install IIs in Windows to enable 
 
  <p align="center">
 <a href="https://imgur.com/BXhwYIT"><img src="https://i.imgur.com/BXhwYIT.png" title="source: imgur.com"Disk Sanitization Steps"/>
-<a href="https://imgur.com/9COo6h2"><img src="https://i.imgur.com/9COo6h2.png" title="source: imgur.com" /></a>
 </p>  
 <br />
 </p>
